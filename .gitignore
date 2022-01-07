@@ -5,7 +5,7 @@ dist
 build
 
 # local env files
-.env
+# .env
 .envrc
 .env.local
 .env.*.local
